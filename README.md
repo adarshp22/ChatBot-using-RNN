@@ -58,9 +58,7 @@ This project was developed as part of the **Google Developer Student Club (GDSC)
 
 ## 🤝 Contributors
 - **Adarsh Pal** – Developer  
-- **Google Developer Student Club (GDSC), IIT Kanpur** – Mentor/Support  
-
+- **Google Developer Student Club (GDSC), IIT Kanpur** – Mentee/
 ---
 
-## 📜 License
-This project is licensed under the **MIT License** – feel free to use and modify.
+
